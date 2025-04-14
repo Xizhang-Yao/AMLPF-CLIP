@@ -22,7 +22,7 @@ Histopathological image classification is critical for effective cancer screenin
 
 The code for AMLPF-CLIP is currently under preparation and will be released shortly. We are finalizing our experiments and documentation to ensure reproducibility and ease of use.
 
-<--
+<!--
 ## How to Cite
 
 If you use our code or refer to our work in your research, please cite our upcoming paper:

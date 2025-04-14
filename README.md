@@ -10,6 +10,7 @@ Histopathological image classification is critical for effective cancer screenin
 - **Class-Balanced Resampling:** Adjusts sampling weights based on class-specific accuracy to mitigate bias in imbalanced datasets.
 - **Cross-Architecture Knowledge Distillation:** Transfers predictive knowledge from a high-capacity ViT-based teacher model to a lightweight CLIP-based student model using L2 norm–based alignment, thereby preserving high performance while reducing computational cost.
 
+<!--
 ## Repository Contents
 
 - **/code:** Source code for implementing AMLPF-CLIP.
@@ -17,7 +18,7 @@ Histopathological image classification is critical for effective cancer screenin
 - **/experiments:** Scripts and notebooks for reproducing our experimental results on benchmark datasets.
 - **/docs:** Documentation and further details regarding architecture, training procedure, and hyper-parameter settings.
 - **README.md:** This file.
-
+-->
 ## Status
 
 The code for AMLPF-CLIP is currently under preparation and will be released shortly. We are finalizing our experiments and documentation to ensure reproducibility and ease of use.

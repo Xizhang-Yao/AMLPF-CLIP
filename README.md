@@ -72,7 +72,7 @@ If you use our code or refer to our work in your research, please cite our upcom
 
 ## Contact
 
-For questions or further information, please contact [yaoxizhang2022@email.szu.edu.cn] or open an issue in this repository.
+For questions or further information, please contact <yaoxizhang2022@email.szu.edu.cn> or open an issue in this repository.
 
 ---
 
